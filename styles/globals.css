@@ -7,7 +7,7 @@ html {
 
 .card-title {
   overflow: hidden;
-  min-height: 50px;
+  min-height: 56px;
   white-space: normal;
   text-overflow: ellipsis;
   -webkit-box-orient: vertical;
